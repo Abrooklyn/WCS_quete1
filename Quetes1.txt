@@ -1,0 +1,21 @@
+root@ubuntu-s-1vcpu-1gb-lon1-01:~# ls
+root@ubuntu-s-1vcpu-1gb-lon1-01:~# cd ..
+root@ubuntu-s-1vcpu-1gb-lon1-01:/# ls
+bin   home            lib64       opt   sbin  tmp      vmlinuz.old
+boot  initrd.img      lost+found  proc  snap  usr
+dev   initrd.img.old  media       root  srv   var
+etc   lib             mnt         run   sys   vmlinuz
+root@ubuntu-s-1vcpu-1gb-lon1-01:/# cd media
+root@ubuntu-s-1vcpu-1gb-lon1-01:/media# ls
+root@ubuntu-s-1vcpu-1gb-lon1-01:/media# cd ..
+root@ubuntu-s-1vcpu-1gb-lon1-01:/# cd ..
+root@ubuntu-s-1vcpu-1gb-lon1-01:/# ls
+bin   home            lib64       opt   sbin  tmp      vmlinuz.old
+boot  initrd.img      lost+found  proc  snap  usr
+dev   initrd.img.old  media       root  srv   var
+etc   lib             mnt         run   sys   vmlinuz
+root@ubuntu-s-1vcpu-1gb-lon1-01:/# cd home
+root@ubuntu-s-1vcpu-1gb-lon1-01:/home# ls
+root@ubuntu-s-1vcpu-1gb-lon1-01:/home# pwd
+/home
+root@ubuntu-s-1vcpu-1gb-lon1-01:/home#
